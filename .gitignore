@@ -1,0 +1,17 @@
+.DS_Store
+.local/
+.ipython/
+.jupyter/
+notebooks/.ipynb_checkpoints/
+
+#exclude file holding sensitive information
+private-user-config.yml
+
+#exclude temporary folder used by IBM PAIRS
+notebooks/downloads/
+
+#exclude all files in data folder (since this is analysis cache) except specific files
+data/*/*
+!data/Global/ne_10m*
+!data/*/IBMPAIRS_LocalCache.csv
+!data/*/country_metadata.json

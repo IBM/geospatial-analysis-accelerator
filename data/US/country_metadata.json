@@ -1,0 +1,429 @@
+{
+  "country_data_sources": {
+      "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+      "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+      "population":"https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html",
+      "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+      "geo_data_comments":"Filtered to 'State' and excluding US-AK, US-HI.",
+      "covid_data_provider":"The COVID Tracking Project (CC BY-NC-4.0): https://covidtracking.com",
+      "covid_data_path": "https://covidtracking.com/api/v1/states/daily.json"
+  },
+    "country_metadata": [
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-AL",
+        "iso3166-2_name_en": "Alabama",
+        "population": 4903185,
+        "covid_region_code": "01"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-AK",
+        "iso3166-2_name_en": "Alaska",
+        "population": 731545,
+        "covid_region_code": "02"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-AZ",
+        "iso3166-2_name_en": "Arizona",
+        "population": 7278717,
+        "covid_region_code": "04"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-AR",
+        "iso3166-2_name_en": "Arkansas",
+        "population": 3017804,
+        "covid_region_code": "05"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-CA",
+        "iso3166-2_name_en": "California",
+        "population": 39512223,
+        "covid_region_code": "06"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-CO",
+        "iso3166-2_name_en": "Colorado",
+        "population": 5758736,
+        "covid_region_code": "08"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-CT",
+        "iso3166-2_name_en": "Connecticut",
+        "population": 3565287,
+        "covid_region_code": "09"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-DE",
+        "iso3166-2_name_en": "Delaware",
+        "population": 973764,
+        "covid_region_code": "10"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-DC",
+        "iso3166-2_name_en": "District of Columbia",
+        "population": 705749,
+        "covid_region_code": "11"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-FL",
+        "iso3166-2_name_en": "Florida",
+        "population": 21477737,
+        "covid_region_code": "12"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-GA",
+        "iso3166-2_name_en": "Georgia",
+        "population": 10617423,
+        "covid_region_code": "13"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-HI",
+        "iso3166-2_name_en": "Hawaii",
+        "population": 1415872,
+        "covid_region_code": "15"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-ID",
+        "iso3166-2_name_en": "Idaho",
+        "population": 1787065,
+        "covid_region_code": "16"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-IL",
+        "iso3166-2_name_en": "Illinois",
+        "population": 12671821,
+        "covid_region_code": "17"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-IN",
+        "iso3166-2_name_en": "Indiana",
+        "population": 6732219,
+        "covid_region_code": "18"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-IA",
+        "iso3166-2_name_en": "Iowa",
+        "population": 3155070,
+        "covid_region_code": "19"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-KS",
+        "iso3166-2_name_en": "Kansas",
+        "population": 2913314,
+        "covid_region_code": "20"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-KY",
+        "iso3166-2_name_en": "Kentucky",
+        "population": 4467673,
+        "covid_region_code": "21"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-LA",
+        "iso3166-2_name_en": "Louisiana",
+        "population": 4648794,
+        "covid_region_code": "22"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-ME",
+        "iso3166-2_name_en": "Maine",
+        "population": 1344212,
+        "covid_region_code": "23"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-MD",
+        "iso3166-2_name_en": "Maryland",
+        "population": 6045680,
+        "covid_region_code": "24"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-MA",
+        "iso3166-2_name_en": "Massachusetts",
+        "population": 6892503,
+        "covid_region_code": "25"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-MI",
+        "iso3166-2_name_en": "Michigan",
+        "population": 9986857,
+        "covid_region_code": "26"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-MN",
+        "iso3166-2_name_en": "Minnesota",
+        "population": 5639632,
+        "covid_region_code": "27"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-MS",
+        "iso3166-2_name_en": "Mississippi",
+        "population": 2976149,
+        "covid_region_code": "28"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-MO",
+        "iso3166-2_name_en": "Missouri",
+        "population": 6137428,
+        "covid_region_code": "29"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-MT",
+        "iso3166-2_name_en": "Montana",
+        "population": 1068778,
+        "covid_region_code": "30"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-NE",
+        "iso3166-2_name_en": "Nebraska",
+        "population": 1934408,
+        "covid_region_code": "31"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-NV",
+        "iso3166-2_name_en": "Nevada",
+        "population": 3080156,
+        "covid_region_code": "32"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-NH",
+        "iso3166-2_name_en": "New Hampshire",
+        "population": 1359711,
+        "covid_region_code": "33"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-NJ",
+        "iso3166-2_name_en": "New Jersey",
+        "population": 8882190,
+        "covid_region_code": "34"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-NM",
+        "iso3166-2_name_en": "New Mexico",
+        "population": 2096829,
+        "covid_region_code": "35"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-NY",
+        "iso3166-2_name_en": "New York",
+        "population": 19453561,
+        "covid_region_code": "36"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-NC",
+        "iso3166-2_name_en": "North Carolina",
+        "population": 10488084,
+        "covid_region_code": "37"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-ND",
+        "iso3166-2_name_en": "North Dakota",
+        "population": 762062,
+        "covid_region_code": "38"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-OH",
+        "iso3166-2_name_en": "Ohio",
+        "population": 11689100,
+        "covid_region_code": "39"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-OK",
+        "iso3166-2_name_en": "Oklahoma",
+        "population": 3956971,
+        "covid_region_code": "40"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-OR",
+        "iso3166-2_name_en": "Oregon",
+        "population": 4217737,
+        "covid_region_code": "41"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-PA",
+        "iso3166-2_name_en": "Pennsylvania",
+        "population": 12801989,
+        "covid_region_code": "42"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-RI",
+        "iso3166-2_name_en": "Rhode Island",
+        "population": 1059361,
+        "covid_region_code": "44"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-SC",
+        "iso3166-2_name_en": "South Carolina",
+        "population": 5148714,
+        "covid_region_code": "45"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-SD",
+        "iso3166-2_name_en": "South Dakota",
+        "population": 884659,
+        "covid_region_code": "46"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-TN",
+        "iso3166-2_name_en": "Tennessee",
+        "population": 6829174,
+        "covid_region_code": "47"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-TX",
+        "iso3166-2_name_en": "Texas",
+        "population": 28995881,
+        "covid_region_code": "48"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-UT",
+        "iso3166-2_name_en": "Utah",
+        "population": 3205958,
+        "covid_region_code": "49"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-VT",
+        "iso3166-2_name_en": "Vermont",
+        "population": 623989,
+        "covid_region_code": "50"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-VA",
+        "iso3166-2_name_en": "Virginia",
+        "population": 8535519,
+        "covid_region_code": "51"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-WA",
+        "iso3166-2_name_en": "Washington",
+        "population": 7614893,
+        "covid_region_code": "53"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-WV",
+        "iso3166-2_name_en": "West Virginia",
+        "population": 1792147,
+        "covid_region_code": "54"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-WI",
+        "iso3166-2_name_en": "Wisconsin",
+        "population": 5822434,
+        "covid_region_code": "55"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-WY",
+        "iso3166-2_name_en": "Wyoming",
+        "population": 578759,
+        "covid_region_code": "56"
+    },
+{
+        "iso3166-1_code": "US",
+        "iso3166-1_name": "United States",
+        "iso3166-2_code": "US-PR",
+        "iso3166-2_name_en": "Puerto Rico",
+        "population": 3032165,
+        "covid_region_code": "72"
+    }
+   ]
+}

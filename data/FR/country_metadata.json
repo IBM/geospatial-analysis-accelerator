@@ -1,0 +1,130 @@
+{
+    "country_data_sources": {
+        "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+        "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+        "population":"https://www.ined.fr/fr/tout-savoir-population/chiffres/france/structure-population/regions-departements/",
+        "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+        "geo_data_comments":"Filtered to 'Metropolitan department'. Merged regions in accordance with new structure as per 2016.",
+        "covid_data_provider":"Open Source Data Initiative: https://www.data.gouv.fr/fr/datasets/chiffres-cles-concernant-lepidemie-de-covid19-en-france/",
+        "covid_data_path": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv"
+    },
+    "country_metadata": [
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-IDF",
+        "iso3166-2_name_en": "Ile-de-France",
+        "population": 12278210,
+        "covid_region_code": "REG-11",
+        "FR_nashapefile_old_region_code": "FR-J"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-CVL",
+        "iso3166-2_name_en": "Centre-Val de Loire",
+        "population": 2559073,
+        "covid_region_code": "REG-24",
+        "FR_nashapefile_old_region_code": "FR-F"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-BFC",
+        "iso3166-2_name_en": "Bourgogne-Franche-Comté",
+        "population": 2783039,
+        "covid_region_code": "REG-27",
+        "FR_nashapefile_old_region_code": "FR-D,FR-I"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-NOR",
+        "iso3166-2_name_en": "Normandie",
+        "population": 3303500,
+        "covid_region_code": "REG-28",
+        "FR_nashapefile_old_region_code": "FR-P,FR-Q"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-HDF",
+        "iso3166-2_name_en": "Hauts-de-France",
+        "population": 5962662,
+        "covid_region_code": "REG-32",
+        "FR_nashapefile_old_region_code": "FR-O,FR-S"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-GES",
+        "iso3166-2_name_en": "Grand-Est",
+        "population": 5511747,
+        "covid_region_code": "REG-44",
+        "FR_nashapefile_old_region_code": "FR-G,FR-M"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-PDL",
+        "iso3166-2_name_en": "Pays de la Loire",
+        "population": 3801797,
+        "covid_region_code": "REG-52",
+        "FR_nashapefile_old_region_code": "FR-R"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-BRE",
+        "iso3166-2_name_en": "Bretagne",
+        "population": 3340379,
+        "covid_region_code": "REG-53",
+        "FR_nashapefile_old_region_code": "FR-E"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-NAQ",
+        "iso3166-2_name_en": "Nouvelle-Aquitaine",
+        "population": 5999982,
+        "covid_region_code": "REG-75",
+        "FR_nashapefile_old_region_code": "FR-B,FR-L,FR-T"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-OCC",
+        "iso3166-2_name_en": "Occitanie",
+        "population": 5924858,
+        "covid_region_code": "REG-76",
+        "FR_nashapefile_old_region_code": "FR-K,FR-N"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-ARA",
+        "iso3166-2_name_en": "Auvergne-Rhône-Alpes",
+        "population": 8032377,
+        "covid_region_code": "REG-84",
+        "FR_nashapefile_old_region_code": "FR-C,FR-V"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-PAC",
+        "iso3166-2_name_en": "Provence-Alpes-Côte d'Azur",
+        "population": 5055651,
+        "covid_region_code": "REG-93",
+        "FR_nashapefile_old_region_code": "FR-U"
+    },
+    {
+        "iso3166-1_code": "FR",
+        "iso3166-1_name": "France",
+        "iso3166-2_code": "FR-COR",
+        "iso3166-2_name_en": "Corse",
+        "population": 344679,
+        "covid_region_code": "REG-94",
+        "FR_nashapefile_old_region_code": "FR-H"
+    }
+    ]
+}

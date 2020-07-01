@@ -1,0 +1,109 @@
+{
+    "country_data_sources": {
+        "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+        "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+        "population":"https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70072NED/table?fromstatweb",
+        "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+        "geo_data_comments":"Filtered to 'Province', hereby excluding NL regions in the Caraïben.",
+        "covid_data_provider":"Open Source Data Initiative: https://github.com/J535D165/CoronaWatchNL",
+        "covid_data_path": "https://raw.githubusercontent.com/J535D165/CoronaWatchNL/master/data-json/data-provincial/RIVM_NL_provincial_latest.json"
+    },
+    "country_metadata": [
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-DR",
+        "iso3166-2_name_en": "Drenthe",
+        "population": 493657,
+        "covid_region_code": "22"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-FL",
+        "iso3166-2_name_en": "Flevoland",
+        "population": 422979,
+        "covid_region_code": "24"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-FR",
+        "iso3166-2_name_en": "Friesland",
+        "population": 649944,
+        "covid_region_code": "21"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-GE",
+        "iso3166-2_name_en": "Gelderland",
+        "population": 2086142,
+        "covid_region_code": "25"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-GR",
+        "iso3166-2_name_en": "Groningen",
+        "population": 586061,
+        "covid_region_code": "20"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-LI",
+        "iso3166-2_name_en": "Limburg",
+        "population": 1117164,
+        "covid_region_code": "31"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-NB",
+        "iso3166-2_name_en": "North Brabant",
+        "population": 2563432,
+        "covid_region_code": "30"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-NH",
+        "iso3166-2_name_en": "North Holland",
+        "population": 2879611,
+        "covid_region_code": "27"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-OV",
+        "iso3166-2_name_en": "Overijssel",
+        "population": 1162500,
+        "covid_region_code": "23"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-UT",
+        "iso3166-2_name_en": "Utrecht",
+        "population": 1354979,
+        "covid_region_code": "26"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-ZE",
+        "iso3166-2_name_en": "Zeeland",
+        "population": 383519,
+        "covid_region_code": "29"
+    },
+    {
+        "iso3166-1_code": "NL",
+        "iso3166-1_name": "The Netherlands",
+        "iso3166-2_code": "NL-ZH",
+        "iso3166-2_name_en": "South Holland",
+        "population": 3708585,
+        "covid_region_code": "28"
+    }
+    ]
+}
