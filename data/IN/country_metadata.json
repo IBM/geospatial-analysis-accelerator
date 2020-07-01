@@ -1,4 +1,13 @@
 {
+    "country_data_sources": {
+        "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+        "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+        "population":"",
+        "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+        "geo_data_comments":"",
+        "covid_data_provider":"COVID-19 India: https://www.covid19india.org/",
+        "covid_data_path": "https://api.covid19india.org/csv/latest/state_wise_daily.csv"
+    },
     "country_metadata": [
     {
         "iso3166-1_code": "IN",
