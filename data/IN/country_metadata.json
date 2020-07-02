@@ -4,7 +4,7 @@
         "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
         "population":"",
         "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
-        "geo_data_comments":"",
+        "geo_data_comments":"Included LA with JK, CH with PB, TG with AP because shapefile has them in one geometry",
         "covid_data_provider":"COVID-19 India: https://www.covid19india.org/",
         "covid_data_path": "https://api.covid19india.org/csv/latest/state_wise_daily.csv"
     },
@@ -13,9 +13,9 @@
         "iso3166-1_code": "IN",
         "iso3166-1_name": "India",
         "iso3166-2_code": "IN-AP",
-        "iso3166-2_name_en": "Andhra Pradesh",
-        "population": 49386799,
-        "covid_region_code": "AP"
+        "iso3166-2_name_en": "Andhra Pradesh (incl. Telangana)",
+        "population": 84580777,
+        "covid_region_code": "AP,TG"
     },
     {
         "iso3166-1_code": "IN",
@@ -117,9 +117,9 @@
         "iso3166-1_code": "IN",
         "iso3166-1_name": "India",
         "iso3166-2_code": "IN-JK",
-        "iso3166-2_name_en": "Jammu and Kashmir",
-        "population": 9944283,
-        "covid_region_code": "JK"
+        "iso3166-2_name_en": "Jammu and Kashmir (incl. Ladakh)",
+        "population": 10218572,
+        "covid_region_code": "JK,LA"
     },
     {
         "iso3166-1_code": "IN",
@@ -144,14 +144,6 @@
         "iso3166-2_name_en": "Kerala",
         "population": 33387677,
         "covid_region_code": "KL"
-    },
-    {
-        "iso3166-1_code": "IN",
-        "iso3166-1_name": "India",
-        "iso3166-2_code": "IN-LA",
-        "iso3166-2_name_en": "Ladakh",
-        "population": 274289,
-        "covid_region_code": "LA"
     },
     {
         "iso3166-1_code": "IN",
@@ -231,7 +223,7 @@
         "iso3166-2_code": "IN-PB",
         "iso3166-2_name_en": "Punjab",
         "population": 27743338,
-        "covid_region_code": "PB"
+        "covid_region_code": "PB,CH"
     },
     {
         "iso3166-1_code": "IN",
@@ -256,14 +248,6 @@
         "iso3166-2_name_en": "Tamil Nadu",
         "population": 72147030,
         "covid_region_code": "TN"
-    },
-    {
-        "iso3166-1_code": "IN",
-        "iso3166-1_name": "India",
-        "iso3166-2_code": "IN-TG",
-        "iso3166-2_name_en": "Telangana",
-        "population": 35193978,
-        "covid_region_code": "TG"
     },
     {
         "iso3166-1_code": "IN",
