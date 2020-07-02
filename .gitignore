@@ -1,7 +1,5 @@
+.*/
 .DS_Store
-.local/
-.ipython/
-.jupyter/
 notebooks/.ipynb_checkpoints/
 
 #exclude file holding sensitive information
