@@ -3,7 +3,7 @@ The objective of this repository is to:
 
 >Identify, demonstrate and create assets that can be used by Data Scientists to speed up their geospatial analysis.
 
-These assets are the result of an research initiative started by the [IBM Academy of Technology](https://www.ibm.com/blogs/academy-of-technology/). The intend is to extend and grow the number & maturity of assets over time.
+These assets are the result of an research initiative started by the [IBM Academy of Technology](https://www.ibm.com/blogs/academy-of-technology/{target='_blank'}). The intend is to extend and grow the number & maturity of assets over time.
 
 The background of the IBM AoT Study and the first Use Case is described in two LinkedIn articles:
 
@@ -32,12 +32,20 @@ Then you need to build the Docker Image:
 3. Start the Docker Image & Mount the current directory:
 
     On Linux & Mac:
-
     ```
     docker run -it --rm -v $(pwd):/home/jovyan/work -p 8888:8888 ibm/geospatial-analysis-accelerator
     ```
-    On Windows:
+    On Windows via cmd:
     ```
-    docker run -it --rm -v $(PWD):/home/jovyan/work -p 8888:8888 ibm/geospatial-analysis-accelerator
+    docker run -it --rm -v "%cd%":/home/jovyan/work -p 8888:8888 ibm/geospatial-analysis-accelerator
     ```
+    On Windows via Powershell:
+    ```
+    docker run -it --rm -v ${pwd}:/home/jovyan/work -p 8888:8888 ibm/geospatial-analysis-accelerator
+    ```
+
     This will start the Jupyter Notebook server and mount the current directory.
+    
+    The Jupyter Notebook server will be available on http://127.0.0.1:8888/ with the access token listed in the console.
+
+The Notebook is available in the *notebooks* directory and contains full documentation on how to use the Notebook.
