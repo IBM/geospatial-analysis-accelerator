@@ -7,7 +7,7 @@
         "geo_data_comments":"Filtered to 'Province', hereby excluding NL regions in the Caraïben.",
         "covid_data_provider":"GEO Corona Hub 2020 - 'Nationale Plattform für geografische Daten' : https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0/data",
         "covid_data_path": "https://www.arcgis.com/sharing/rest/content/items/f10774f1c63e40168479a1feb6c7ca74/data"
-    },
+    }, 
     "country_metadata": [
     {
         "iso3166-1_code": "DE",

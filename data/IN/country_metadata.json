@@ -7,7 +7,7 @@
         "geo_data_comments":"Included LA with JK, CH with PB, TG with AP because shapefile has them in one geometry",
         "covid_data_provider":"COVID-19 India: https://www.covid19india.org/",
         "covid_data_path": "https://api.covid19india.org/csv/latest/state_wise_daily.csv"
-    },
+    }, 
     "country_metadata": [
     {
         "iso3166-1_code": "IN",

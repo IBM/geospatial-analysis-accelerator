@@ -7,7 +7,7 @@
       "geo_data_comments":"Filtered to 'State' and excluding US-AK, US-HI.",
       "covid_data_provider":"The COVID Tracking Project (CC BY-NC-4.0): https://covidtracking.com",
       "covid_data_path": "https://covidtracking.com/api/v1/states/daily.json"
-  },
+  }, 
     "country_metadata": [
 {
         "iso3166-1_code": "US",

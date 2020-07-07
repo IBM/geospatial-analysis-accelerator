@@ -7,7 +7,7 @@
         "geo_data_comments":"Filtered to 'County'.",
         "covid_data_provider":"European Data Portal: https://www.europeandataportal.eu/data/datasets/https-free-entryscape-com-store-360-resource-12 ('Number of cases of coV-19 in Sweden per day and region')",
         "covid_data_path": "Download a zip file."
-    },
+    }, 
     "country_metadata": [
     {
         "iso3166-1_code": "SE",

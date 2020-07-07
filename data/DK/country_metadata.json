@@ -7,7 +7,7 @@
         "geo_data_comments":"Filtered to 'Region'.",
         "covid_data_provider":"Statens Serum Institut: https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning/arkiv-med-overvaagningsdata-for-covid19",
         "covid_data_path": "Download a zip file."
-    },
+    }, 
     "country_metadata": [
     {
         "iso3166-1_code": "DK",
