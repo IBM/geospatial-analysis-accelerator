@@ -13,3 +13,4 @@ data/*/*
 !data/Global/ne_10m*
 !data/*/IBMPAIRS_LocalCache.csv
 !data/*/country_metadata.json
+!data/*/CDLA-Sharing-v1.0.pdf
