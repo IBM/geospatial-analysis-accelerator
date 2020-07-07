@@ -49,3 +49,18 @@ Then you need to build the Docker Image:
     The Jupyter Notebook server will be available on http://127.0.0.1:8888/ with the access token listed in the console.
 
 The Notebook is available in the *notebooks* directory and contains full documentation on how to use the Notebook.
+
+## IBM PAIRS
+If you don't have access to the IBM PAIRS API, then you can request accesss via the [IBM PAIRS Access procedure](IBMPAIRS-Access.md).
+
+If you want to get started without API access you can ! This repo contains an [IBM PAIRS Local Cache file for The Netherlands](/data/NL/IBMPAIRS_LocalCache.csv).
+
+The file contains a small set of data:
+- *geospatial filter*: NL
+- *temporal filter*: February 13 2020 - June 19 2020
+- *data filter*: IBM TWC (UV Index, Temperature Above Ground, Relative Humidity, Wind Speed).
+- *aggregation*: daily by region code 
+
+This small set of data is sufficient to run the COVID-19 Geospatial Correlation Notebook, but true value comes with access to the IBM PAIRS API.
+
+The data in this IBM PAIRS Local Cache File is made available under [CDLA-Sharing-1.0](https://cdla.io/sharing-1-0/)
