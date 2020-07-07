@@ -1,0 +1,181 @@
+{
+    "country_data_sources": {
+        "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+        "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+        "population":"https://en.wikipedia.org/wiki/Counties_of_Sweden#List_of_counties",
+        "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+        "geo_data_comments":"Filtered to 'County'.",
+        "covid_data_provider":"European Data Portal: https://www.europeandataportal.eu/data/datasets/https-free-entryscape-com-store-360-resource-12 ('Number of cases of coV-19 in Sweden per day and region')",
+        "covid_data_path": "Download a zip file."
+    }, 
+    "country_metadata": [
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-AB",
+        "iso3166-2_name_en": "Stockholm",
+        "population": 2377081,
+		    "covid_region_code": "Stockholm"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-AC",
+        "iso3166-2_name_en": "Västerbotten",
+        "population": 271736,
+        "covid_region_code": "Västerbotten"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-BD",
+        "iso3166-2_name_en": "Norrbotten",
+        "population": 250093,
+        "covid_region_code": "Norrbotten"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-C",
+        "iso3166-2_name_en": "Uppsala",
+        "population": 383713,
+        "covid_region_code": "Uppsala"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-D",
+        "iso3166-2_name_en": "Södermanland",
+        "population": 297540,
+        "covid_region_code": "Södermanland"
+    },
+	{
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-E",
+        "iso3166-2_name_en": "Östergötland",
+        "population": 465495,
+        "covid_region_code": "Östergötland"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-F",
+        "iso3166-2_name_en": "Jönköping",
+        "population": 363599,
+        "covid_region_code": "Jönköping"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-G",
+        "iso3166-2_name_en": "Kronoberg",
+        "population": 201469,
+        "covid_region_code": "Kronoberg"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-H",
+        "iso3166-2_name_en": "Kalmar",
+        "population": 245446,
+        "covid_region_code": "Kalmar"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-I",
+        "iso3166-2_name_en": "Gotland",
+        "population": 59686,
+        "covid_region_code": "Gotland"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-K",
+        "iso3166-2_name_en": "Blekinge",
+        "population": 159606,
+        "covid_region_code": "Blekinge"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-M",
+        "iso3166-2_name_en": "Skåne",
+        "population": 1377827,
+        "covid_region_code": "Skåne"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-N",
+        "iso3166-2_name_en": "Halland",
+        "population": 333848,
+        "covid_region_code": "Halland"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-O",
+        "iso3166-2_name_en": "Västra_Götaland",
+        "population": 1725881,
+        "covid_region_code": "Västra_Götaland"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-S",
+        "iso3166-2_name_en": "Värmland",
+        "population": 282414,
+        "covid_region_code": "Värmland"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-T",
+        "iso3166-2_name_en": "Örebro",
+        "population": 304805,
+        "covid_region_code": "Örebro"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-U",
+        "iso3166-2_name_en": "Västmanland",
+        "population": 275845,
+        "covid_region_code": "Västmanland"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-W",
+        "iso3166-2_name_en": "Dalarna",
+        "population": 287966,
+        "covid_region_code": "Dalarna"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-X",
+        "iso3166-2_name_en": "Gävleborg",
+        "population": 287382,
+        "covid_region_code": "Gävleborg"
+    },
+    {
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-Y",
+        "iso3166-2_name_en": "Västernorrland",
+        "population": 245347,
+        "covid_region_code": "Västernorrland"
+    },
+	{
+        "iso3166-1_code": "SE",
+        "iso3166-1_name": "Sweden",
+        "iso3166-2_code": "SE-Z",
+        "iso3166-2_name_en": "Jämtland",
+        "population": 130810,
+        "covid_region_code": "Jämtland"
+    }
+    ]
+}

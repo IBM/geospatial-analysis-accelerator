@@ -1,0 +1,53 @@
+{
+    "country_data_sources": {
+        "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+        "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+        "population":"https://www.statistikbanken.dk/FOLK1A",
+        "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+        "geo_data_comments":"Filtered to 'Region'.",
+        "covid_data_provider":"Statens Serum Institut: https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning/arkiv-med-overvaagningsdata-for-covid19",
+        "covid_data_path": "Download a zip file."
+    }, 
+    "country_metadata": [
+    {
+        "iso3166-1_code": "DK",
+        "iso3166-1_name": "Denmark",
+        "iso3166-2_code": "DK-81",
+        "iso3166-2_name_en": "North Denmark Region",
+        "population": 589936,
+        "covid_region_code": "North Denmark Region"
+    },
+    {
+        "iso3166-1_code": "DK",
+        "iso3166-1_name": "Denmark",
+        "iso3166-2_code": "DK-82",
+        "iso3166-2_name_en": "Central Denmark Region",
+        "population": 1326340,
+        "covid_region_code": "Central Denmark Region"
+    },
+    {
+        "iso3166-1_code": "DK",
+        "iso3166-1_name": "Denmark",
+        "iso3166-2_code": "DK-83",
+        "iso3166-2_name_en": "Region of Southern Denmark",
+        "population": 1223105,
+        "covid_region_code": "Region of Southern Denmark"
+    },
+    {
+        "iso3166-1_code": "DK",
+        "iso3166-1_name": "Denmark",
+        "iso3166-2_code": "DK-84",
+        "iso3166-2_name_en": "Capital Region of Denmark",
+        "population": 1846023,
+        "covid_region_code": "Capital Region of Denmark"
+    },
+    {
+        "iso3166-1_code": "DK",
+        "iso3166-1_name": "Denmark",
+        "iso3166-2_code": "DK-85",
+        "iso3166-2_name_en": "Region Zealand",
+        "population": 837359,
+        "covid_region_code": "Region Zealand"
+    }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "country_data_sources": {
+        "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+        "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+        "population":"https://en.wikipedia.org/wiki/States_of_Germany",
+        "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+        "geo_data_comments":"Filtered to 'Province', hereby excluding NL regions in the Caraïben.",
+        "covid_data_provider":"GEO Corona Hub 2020 - 'Nationale Plattform für geografische Daten' : https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0/data",
+        "covid_data_path": "https://www.arcgis.com/sharing/rest/content/items/f10774f1c63e40168479a1feb6c7ca74/data"
+    }, 
+    "country_metadata": [
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-BW",
+        "iso3166-2_name_en": "Baden-Württemberg",
+        "population": 11069533,
+        "covid_region_code": "Baden-Württemberg"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-BY",
+        "iso3166-2_name_en": "Bayern",
+        "population": 13076721,
+        "covid_region_code": "Bayern"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-BE",
+        "iso3166-2_name_en": "Berlin",
+        "population": 3644826,
+        "covid_region_code": "Berlin"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-BB",
+        "iso3166-2_name_en": "Brandenburg",
+        "population": 2511917,
+        "covid_region_code": "Brandenburg"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-HB",
+        "iso3166-2_name_en": "Bremen",
+        "population": 682986,
+        "covid_region_code": "Bremen"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-HH",
+        "iso3166-2_name_en": "Hamburg",
+        "population": 1841179,
+        "covid_region_code": "Hamburg"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-HE",
+        "iso3166-2_name_en": "Hessen",
+        "population": 6265809,
+        "covid_region_code": "Hessen"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-NI",
+        "iso3166-2_name_en": "Niedersachsen",
+        "population": 7982448,
+        "covid_region_code": "Niedersachsen"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-MV",
+        "iso3166-2_name_en": "Mecklenburg-Vorpommern",
+        "population": 1609675,
+        "covid_region_code": "Mecklenburg-Vorpommern"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-NW",
+        "iso3166-2_name_en": "Nordrhein-Westfalen",
+        "population": 17932651,
+        "covid_region_code": "Nordrhein-Westfalen"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-RP",
+        "iso3166-2_name_en": "Rheinland-Pfalz",
+        "population": 4084844,
+        "covid_region_code": "Rheinland-Pfalz"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-SL",
+        "iso3166-2_name_en": "Saarland",
+        "population": 990509,
+        "covid_region_code": "Saarland"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-SN",
+        "iso3166-2_name_en": "Sachsen",
+        "population": 4077937,
+        "covid_region_code": "Sachsen"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-ST",
+        "iso3166-2_name_en": "Sachsen-Anhalt",
+        "population": 2208321,
+        "covid_region_code": "Sachsen-Anhalt"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-SH",
+        "iso3166-2_name_en": "Schleswig-Holstein",
+        "population": 2896712,
+        "covid_region_code": "Schleswig-Holstein"
+    },
+    {
+        "iso3166-1_code": "DE",
+        "iso3166-1_name": "Germany",
+        "iso3166-2_code": "DE-TH",
+        "iso3166-2_name_en": "Thüringen",
+        "population": 2143145,
+        "covid_region_code": "Thüringen"
+    }
+    ]
+}

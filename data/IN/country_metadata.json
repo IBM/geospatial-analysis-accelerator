@@ -1,0 +1,286 @@
+{
+    "country_data_sources": {
+        "iso3166-1":"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2",
+        "iso3166-2":"https://en.wikipedia.org/wiki/ISO_3166-2",
+        "population":"https://en.wikipedia.org/wiki/ISO_3166-2:IN",
+        "geo_data":"https://www.naturalearthdata.com/downloads/10m-cultural-vectors/",
+        "geo_data_comments":"Included LA with JK, CH with PB, TG with AP because shapefile has them in one geometry",
+        "covid_data_provider":"COVID-19 India: https://www.covid19india.org/",
+        "covid_data_path": "https://api.covid19india.org/csv/latest/state_wise_daily.csv"
+    }, 
+    "country_metadata": [
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-AP",
+        "iso3166-2_name_en": "Andhra Pradesh (incl. Telangana)",
+        "population": 84580777,
+        "covid_region_code": "AP,TG"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-AR",
+        "iso3166-2_name_en": "Arunachal Pradesh",
+        "population": 1382611,
+        "covid_region_code": "AR"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-AS",
+        "iso3166-2_name_en": "Assam",
+        "population": 31169272,
+        "covid_region_code": "AS" 
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-AN",
+        "iso3166-2_name_en": "Andaman and Nicobar Islands",
+        "population": 380520,
+        "covid_region_code": "AN"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-BR",
+        "iso3166-2_name_en": "Bihar",
+        "population": 104099452,
+        "covid_region_code": "BR"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-CT",
+        "iso3166-2_name_en": "Chhattisgarh",
+        "population": 32186262,
+        "covid_region_code": "CT"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-DN",
+        "iso3166-2_name_en": "Dadra and Nagar Haveli",
+        "population": 343709,
+        "covid_region_code": "DN"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-DD",
+        "iso3166-2_name_en": "Daman and Diu",
+        "population": 242911,
+        "covid_region_code": "DD"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-DL",
+        "iso3166-2_name_en": "Delhi",
+        "population": 16787941,
+        "covid_region_code": "DL"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-GA",
+        "iso3166-2_name_en": "Goa",
+        "population": 1458545,
+        "covid_region_code": "GA"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-GJ",
+        "iso3166-2_name_en": "Gujarat",
+        "population": 60439692,
+        "covid_region_code": "GJ"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-HR",
+        "iso3166-2_name_en": "Haryana",
+        "population": 25353081,
+        "covid_region_code": "HR"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-HP",
+        "iso3166-2_name_en": "Himachal Pradesh",
+        "population": 6864602,
+        "covid_region_code": "HP"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-JK",
+        "iso3166-2_name_en": "Jammu and Kashmir (incl. Ladakh)",
+        "population": 10218572,
+        "covid_region_code": "JK,LA"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-JH",
+        "iso3166-2_name_en": "Jharkhand",
+        "population": 32988134,
+        "covid_region_code": "JH"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-KA",
+        "iso3166-2_name_en": "Karnataka",
+        "population": 61130704,
+        "covid_region_code": "KA"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-KL",
+        "iso3166-2_name_en": "Kerala",
+        "population": 33387677,
+        "covid_region_code": "KL"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-LD",
+        "iso3166-2_name_en": "Lakshadweep",
+        "population": 70365,
+        "covid_region_code": "LD"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-MP",
+        "iso3166-2_name_en": "Madhya Pradesh",
+        "population": 72626809,
+        "covid_region_code": "MP"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-MH",
+        "iso3166-2_name_en": "Maharashtra",
+        "population": 112374333,
+        "covid_region_code": "MH"
+    }, 
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-MN",
+        "iso3166-2_name_en": "Manipur",
+        "population": 2855794,
+        "covid_region_code": "MN"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-ML",
+        "iso3166-2_name_en": "Meghalaya",
+        "population": 2964007,
+        "covid_region_code": "ML"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-MZ",
+        "iso3166-2_name_en": "Mizoram",
+        "population": 1091014,
+        "covid_region_code": "MZ"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-NL",
+        "iso3166-2_name_en": "Nagaland",
+        "population": 1980602,
+        "covid_region_code": "NL"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-OR",
+        "iso3166-2_name_en": "Odisha",
+        "population": 41974218,
+        "covid_region_code": "OR"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-PY",
+        "iso3166-2_name_en": "Puducherry",
+        "population": 1394467,
+        "covid_region_code": "PY"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-PB",
+        "iso3166-2_name_en": "Punjab",
+        "population": 27743338,
+        "covid_region_code": "PB,CH"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-RJ",
+        "iso3166-2_name_en": "Rajasthan",
+        "population": 68548437,
+        "covid_region_code": "RJ"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-SK",
+        "iso3166-2_name_en": "Sikkim",
+        "population": 610577,
+        "covid_region_code": "SK"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-TN",
+        "iso3166-2_name_en": "Tamil Nadu",
+        "population": 72147030,
+        "covid_region_code": "TN"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-TR",
+        "iso3166-2_name_en": "Tripura",
+        "population": 3671032,
+        "covid_region_code": "TR"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-UP",
+        "iso3166-2_name_en": "Uttar Pradesh",
+        "population": 199812341,
+        "covid_region_code": "UP"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-UT",
+        "iso3166-2_name_en": "Uttarakhand",
+        "population": 10086292,
+        "covid_region_code": "UT"
+    },
+    {
+        "iso3166-1_code": "IN",
+        "iso3166-1_name": "India",
+        "iso3166-2_code": "IN-WB",
+        "iso3166-2_name_en": "West Bengal",
+        "population": 91347736,
+        "covid_region_code": "WB"
+    } 
+    ]
+}
+

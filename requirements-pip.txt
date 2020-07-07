@@ -1,0 +1,3 @@
+ibmpairs
+geopandas
+plotly>=4.8.1
