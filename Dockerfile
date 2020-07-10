@@ -1,5 +1,5 @@
 # Start from a core stack version
-FROM jupyter/scipy-notebook:latest
+FROM jupyter/datascience-notebook:latest
 # Install from requirements.txt file
 COPY requirements-pip.txt /tmp/
 RUN pip install --requirement /tmp/requirements-pip.txt
