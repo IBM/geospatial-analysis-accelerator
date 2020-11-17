@@ -15,7 +15,7 @@ This repository will hold the assets supporting that initiative.
 NB: the exploration is only to identify & create assets for data scientists to explore geospatial-temporal data. Examples provided with the assets **should not** be taken as any interpretation of the results. We are not trained epidemiologists and therefore leave all interpretations to those that have the professional expertise.
 
 ## COVID-19 Geospatial Correlation
-The first asset is a [Jupyter Notebook](https://jupyter.org/) that can be used to determine [Spearman's rank correlation coefficient](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) between COVID-19 cases and Geospatial & Temporal information out of [IBM PAIRS Geoscope](https://ibmpairs.mybluemix.net/).
+The first asset is a [Jupyter Notebook](https://jupyter.org/) that can be used to determine [Spearman's rank correlation coefficient](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) or a [log-linear generalized additive model (GAM)](https://en.wikipedia.org/wiki/Generalized_additive_model) between COVID-19 cases and Geospatial & Temporal information out of [IBM PAIRS Geoscope](https://ibmpairs.mybluemix.net/.
 
 The [COVID-19 Geospatial Correlation Notebook](https://github.com/ibm/geospatial-analysis-accelerator/notebooks/COVID-19_Geospatial_Correlation.ipynb) can be used in a existing Juyter Notebook server, provided that Python 3.x is used and the required packages are installed via pip and conda.
 
