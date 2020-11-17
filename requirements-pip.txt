@@ -1,3 +1,4 @@
 ibmpairs
 geopandas
 plotly>=4.8.1
+rpy2>=3.3.1
