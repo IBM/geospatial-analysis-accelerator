@@ -7,7 +7,7 @@
         "geo_data_comments":"Filtered to 'Province', hereby excluding NL regions in the Caraïben.",
         "covid_data_provider":"Open Source Data Initiative: https://github.com/J535D165/CoronaWatchNL",
         "covid_data_path": "https://raw.githubusercontent.com/J535D165/CoronaWatchNL/master/data-json/data-provincial/RIVM_NL_provincial_latest.json"
-    }, 
+    },
     "country_metadata": [
     {
         "iso3166-1_code": "NL",
