@@ -12,6 +12,6 @@ notebooks/downloads/
 #exclude all files in data folder (since this is analysis cache) except specific files
 data/*/*
 !data/Global/ne_10m*
-!data/*/IBMPAIRS_LocalCache.csv
+!data/NL/IBMPAIRS_LocalCache.csv
 !data/*/country_metadata.json
 !data/*/CDLA-Sharing-v1.0.pdf
